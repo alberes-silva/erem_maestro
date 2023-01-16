@@ -47,8 +47,40 @@ nav a:hover {
     text-decoration: underline;
 }
 
+/*Configuração do banner */
+
 .banner {
     width: 100%;
 }
+
+/* Configuração do */
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+.utensilios {
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+
 
 

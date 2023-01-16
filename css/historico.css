@@ -1,0 +1,90 @@
+* {
+    margin:0;
+    padding: 0;
+    border:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align: baseline;
+}
+
+header {
+    background:#bbb;
+    padding: 20px 0;
+}
+
+nav {
+    position:absolute;
+    top:40px;
+    right: 0;
+}
+
+.caixa{
+    position:relative;
+    width: 90%;
+    margin: 0 20px;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav li {
+    display:inline;
+    margin:0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color:#000;
+    font-weight: bold;
+    font-size:22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color:#c78C19;
+    text-decoration: underline;
+}
+
+.artigo h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+a {
+    color: #36c;
+}
+
+a:not(:hover) {
+    text-decoration: none;
+}
+
+.cabecalho{
+    padding: 12px 24px;
+    background-color: #eaecf0;
+}
+
+.cabecalho-conteudo {
+    max-width: 40em;
+    margin: 0 auto;
+}
+
+.logo-figura {
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+}
+
+.logo-nome {
+    margin: 0 12px;
+    font-size: 35px;
+}
+
+.rodape {
+    background-color: #eaecf0;
+    text-align: center;
+    padding: 12px;
+}
+

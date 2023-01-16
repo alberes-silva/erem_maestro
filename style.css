@@ -76,9 +76,18 @@ nav a:hover {
 }
 
 .utensilios {
-    width: 120px;
+    width: 140px;
     float: left;
     margin: 0 20px 20px 0;
+}
+
+.imagembeneficios {
+    width: 60%;
+}
+
+.itens {
+    padding: 5px;
+    
 }
 
 

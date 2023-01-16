@@ -63,6 +63,10 @@ nav a:hover {
     clear: left;
 }
 
+.titulo-principal p {
+    text-align: justify;
+}
+
 .principal p {
     margin: 0 0 1em;
 }
@@ -79,6 +83,10 @@ nav a:hover {
     width: 140px;
     float: left;
     margin: 0 20px 20px 0;
+}
+
+.beneficios li {
+    width: 60%;
 }
 
 .imagembeneficios {
